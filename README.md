@@ -19,7 +19,7 @@ It combines advanced NLP preprocessing techniques with various machine learning 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Hate-Speech-Detection.git
+   git clone https://github.com/vvsndattasailingam/Hate-Speech-and-Offensive-Language-Detection.git
    ```
 2. Navigate to the project directory:
    ```bash
